@@ -1,4 +1,4 @@
-# Refasmer
+# Refasmer [![official JetBrains project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 Simple tool to make reference assembly. Strips method bodies, private class fields etc. Also can generate xml files like FrameworkList.xml.
 Can be used as library (Refasmer.dll).
@@ -9,10 +9,10 @@ You could download refasmer from GitHub: https://github.com/JetBrains/Refasmer/r
 
 ### NuGet packages
 
-| Package                        | Version                                                             |
-|--------------------------------|---------------------------------------------------------------------|
-| **JetBrains.Refasmer**         | ![Nuget](https://img.shields.io/nuget/v/JetBrains.Refasmer)         |
-| **JetBrains.Refasmer.CliTool** | ![Nuget](https://img.shields.io/nuget/v/JetBrains.Refasmer.CliTool) |
+| Package                        | Version                                                                                                                          |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **JetBrains.Refasmer**         | [![Nuget](https://img.shields.io/nuget/v/JetBrains.Refasmer)](https://www.nuget.org/packages/JetBrains.Refasmer)                 |
+| **JetBrains.Refasmer.CliTool** | [![Nuget](https://img.shields.io/nuget/v/JetBrains.Refasmer.CliTool)](https://www.nuget.org/packages/JetBrains.Refasmer.CliTool) |
 
 ## Usage:
 ```
